@@ -1,0 +1,12 @@
+1.create a branch:
+
+  git branch filename
+
+2.checkout to branch:
+
+  git checkout filename
+
+3.Create a new branch called filename & Checkout the branch
+
+  git checkout -b filename
+4
